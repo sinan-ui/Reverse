@@ -1,0 +1,5 @@
+ inputStr = "Racecar"
+ 
+ reversedChars = reversed(inputStr)
+ 
+ print(''.join(reversedChars))
